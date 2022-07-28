@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "908414193320",
+    "project_id": "newfireapp-49e85",
+    "storage_bucket": "newfireapp-49e85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908414193320:android:bd08c39a552d75c69dfc9d",
+        "android_client_info": {
+          "package_name": "com.example.sheardapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908414193320-854595cmq68mf4g6ns441q452o7uj21t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8EJJRjn7vBXuOKa7rXdaq5eR_LvPPLYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908414193320-854595cmq68mf4g6ns441q452o7uj21t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
